@@ -2,3 +2,7 @@
 			max-width: 66%;
 			padding: 1em;
 		}
+mark { 
+  background-color: #49f5e0;
+  color: black;
+}
