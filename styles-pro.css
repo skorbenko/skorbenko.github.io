@@ -1,4 +1,7 @@
-		body {
-			max-width: 66%;
-			padding: 1em;
-		}
+body {
+	max-width: 66%;
+	padding: 1em;}
+
+h1 {
+	font-family: sans-serif;
+	margin-top: 0;}
