@@ -1,0 +1,371 @@
+- L5: Financial Reporting 
+    - Financial statements are the most important outcome
+        - Versions:
+            - Balance sheet (statement of financial position)
+            - Statement of profit or loss (income statement)
+            - Statement of owner's equity
+            - Statement of cash flows
+        - Are general purpose, external, often audited to increase confidence
+        - Classified financial statements are general financial statements divided into subcategories
+    - Classified Balance Sheet
+        - Assets
+            - Current assets
+                - Cash and other assets that are **reasonably expected** to be converted to cash within **one year** or **normal operating cycle** whichever is longer
+                    - **Normal Operating Cycle**: the average time needed to go from cash to cash; usually less than one year
+                        - Exceptions are products requiring more than one year to produce and companies selling on installment
+            - Investments
+                - Long-term assets that are **not** used in the normal operation and that management does not plan to convert to cash 
+                - Types of Investments
+                    - Securities held for investment
+                    - Long-term notes receivable
+                    - Land held for future use
+                    - Plant or equipment not used in the business
+                    - Special funds established to pay off debt or purchase real estate
+                    - Large permanent investments in another company for control
+            - Property, plant and equipment
+                - Includes long-term assets for the continuing operation of the business
+                - Natural resources
+                    - Forest lands
+                    - Oil and gas
+                    - Coal mines
+                    - If they are not used in **running**the business, they are listed in investments
+                - Also called: operating assets, fixed assets, tangible assets, long-lived assets, plant assets
+                - Depreciation spread over periods of usage
+                    - Past depreciation is recorded in the accumulated depreciation accounts
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fskorbenko%2FshZkl07Q0U.png?alt=media&token=e4067d09-1bd9-4c39-aed7-6d06d553566f)
+            - Intangible assets
+                - Long-term assets without physical substance but with value
+                - Recorded at cost; cost is spread over the expected life of the privilege
+                - Examples: patents, copyright, trademarks
+                - 
+        - Liabilities
+            - Current
+                - Obligations to be paid within one year or within the normal operating cycle, whichever is longer
+                - Typically paid from current assets or by incurring new short-term liabilities
+                - Examples: notes payable, accounts payable, taxes payable, customer advances, current portion of long-term debt
+            - Long-term
+                - Debts of the business to fall due more than one year in the future or beyond the normal operating cycle or that are to be paid out of non-current assets
+                - Examples: mortgages payable, bonds payable, long-term lease liabilities
+        - Owner's Equity
+            - Contributed capital
+            - Also called: proprietorship, capital, net worth
+            - For accounting net worth is not a preferable term because
+                - Most assets are recorded at original cost, not current value
+                - Owner ship **does not** represent worth
+                - It is a claim __against__ the assets of the company
+    - Form of Business Organization and the Balance Sheet
+        - Forms of business organization affect the equity section of the balance sheet
+            - Forms
+                - Sole proprietor
+                    - Equity simply shows amount of capital in the owner's name
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fskorbenko%2Fh4oGQ9LvR1.png?alt=media&token=b0aa2b55-2465-44b0-a0d3-cf8b120a7780)
+                - Partner' Equity
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fskorbenko%2F0HALCbN2vn.png?alt=media&token=aee145de-77de-42e6-8084-08106d071580)
+                - Corporation
+                    - is a separate legal entity from owners
+                    - Stockholders' equity
+                        - Contributed capital
+                            - Par value of the issued stock
+                            - Amounts contributed in excess of the par value per share
+                        - Retained earnings
+                            - Earned capital
+                            - Dividends reduce retained earnings
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fskorbenko%2F-1nwTxuVs-.png?alt=media&token=6675ea1c-4ffa-4814-9eed-9817dd2a903b)
+                    - 
+        - Asset and liability are not affected by the form of organization
+    - Forms of the Income Statement
+        - Condensed financial statements; present only the major categoris of financial statements
+        - Two common forms of condensed income statements
+            - Multistep form
+                - Go through a series of substotals to arrive at net income
+                - Two sections
+                    - Income from operations
+                        - Gross margin minus operating expnses
+                    - Other revenues and expenses
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fskorbenko%2Ficc3VWr-cD.png?alt=media&token=3d4a4790-6510-41c1-ab9e-374e63f68892)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fskorbenko%2FKsTPOLfoMx.png?alt=media&token=e1f023f8-f492-46ad-a19b-04f5d92ba928)
+            - Single-step form
+                - Arrives at net income in a single step
+                - Two sections
+                    - Major categories of revenues
+                    - Major categories of expenses
+                    - Total Revenues – Total Expenses = Income Before Income Taxes
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fskorbenko%2F0sxX_aIgWs.png?alt=media&token=dbb8b439-1b78-497d-ae33-e024c6558b08)
+            - Advantages of Single-Step vs. Multistep
+                - Simple-step is simple
+                - Multistep  shows the components used in deriving net income
+- L6: Measuring Business Income
+    - Profitability
+        - is the ability to earn enough income to attract and hold investment capital
+        - Accountants use the term **net income**, not __profit__
+        - Net Income = Revenues - Expenses
+            - is the increase in owner's equity that results from the operations of a company
+        - Revenues
+            - Increases in owner's equity resulting from
+                - Selling goods
+                - Rendering services
+            - Not all increases in equity arise from revenues
+                - Increases from owner's investments do not represent revenue
+            - When a company earns revenue, it usually receives cash or a promise to be paid (Accounts Receivable or Notes Receivable)
+            - Liabilities are not affected by revenues
+            - Transactions increase cash or assets **but** are not revenues
+                - A bank loan: increases liabilties and cash
+                - Collection of accounts receivable: increases cash and decreases accounts receivable
+        - Expenses
+            - Decreases in owner's equity resulting from costs
+                - Selling goods
+                - Rendering services
+                - Also called the cost of doing business
+            - Transactions that decrease cash and other assets but are not expenses
+                - Cash payments to reduce liabilities: decrease cash and decrease liabilities
+                - Owner withdrawals
+                    - Decrease cash and decrease owner's equity
+        - Prepaid Expenses and Plant Assets
+            - Two steps before an expenditure of cash becomes an expense
+                - Prepaid expenses and plant asseys are recorded as assets when acquired
+                - Cost allocated to expenses as usefulness expires
+                - Expenses are also called expired costs
+                - 
+    - Income Measurement Issues
+        - Accounting period issue (Periodicity)
+            - Concerns the difficulty of assigning revenues and expenses to a short period of time
+            - Problem: some transactions have effects over long periods of time
+            - Solution: make an assumption about periodicty
+            - Accounting Period
+                - A specific length of time during which results of transactions are recorded & measured
+                - Time periods of equal length
+                - Financial statements may be prepared for any time period
+                - **Fiscal year**
+                    - Twelve-month accounting period used by orgs
+                    - Should always be noted in the financial statements
+                    - Business can use calendar year or the annual business cycle
+                - Interim period
+                    - Accounting of less than a year
+                    - A month or a quarter
+        - Continuity issue
+            - Difficulty of knowing how long a business wil survive
+            - Problem: certain revenue and expense transactions must be allocated over several accounting periods; uncertainty over the future
+            - Solution: accountant assumes that the business operates indefinitely
+            - Assumption of Continuity
+                - Cost of assets can be held until a future year when they will becom expenses
+                - Value of assets is recorded at cost and does not change
+                    - When facing bankruptcy, there is no assumption of continuity: assets may be reported at liquidation value
+        - Matching issue
+            - Problem: Revenues can be earned in a period other than the one in which cash is received; expenses can be incurred in a period other than the one in which cash is paid.
+            - Solution: Assign revenues to accounting period in which goods are sold or services are rendered; assign expenses to the period when they are used to produce income.
+    - Accrual Accounting
+        - is the attempt to record financial effects of transactions in the periods in which they occur rather than when cash is received or paid
+        - Revenue Recognition
+            - The process of determining when revenue is earned and when it should be recorded
+            - Four criteria for revenue recognition
+                - Persuasive evidence of an agreement
+                - Delivery has occurred or services have been rendered
+                - The seller's price to the buyer is fiexed or determinable
+                - Reasonable assurance that amount is collectable
+        - Expense Recognition
+            - Same criteria as for revenue recognition
+            - Criteria for recognizing expenses
+                - An agreement exists to purchase a product or service
+                - The product has been delivered or services rendered
+                - A price is established or can be determined
+                - The product has been used to produce revenue
+        - Adjusting the Accounts
+            - Operating a business is a continuous process, but there must be a cutoff point for periodic reports
+                - Reports are prepared at the end of accounting period
+                    - Balance sheet must list all assets and liabilities at the end
+                    - Income statement must list all revenues and expenses of accounting period
+                - Some transactions span more than one accounting period; these transactions require adjustments
+            - Accrual Accounting and Performance Measures
+                - Importance of adjustments
+                    - Necessary for determining key profitability performance measures because affects:
+                    - Net income on the income statement
+                        - Profitability comparisons of different period
+                    - Assets and liabilities on the balance sheet
+                        - Provide information about a company’s future cash inflows and outflows
+                        - Information needed to assess management’s short-term goal of liquidity so that there is enough cash to pay bills
+                - Adjusting Entries
+                    - Never after the Cash account
+                    - -- never affect cash flows after the current period, but provides information about future cash flows
+                        - Accounts Receivable: expected future cash inflows
+                        - Accounts Payable: expected future cash outflows
+                    - Considerable judgement in adjusting entries -- potential for abuse; misuse can result in misleading performance measures
+                - Adjustment’s Effect on the Income Statement and Balance Sheet ^^**Slide 34**^^
+        - Adjustment Process
+            - Adjusting Entries are used to apply accrual accounting to transactions that span more than one accounting period
+            - Each adjusting entry must include at least:
+                - 1 balance sheet account
+                - 1 income statement account
+                - No Cash account
+            - Adjusting entries are required when
+                - Recorded costs are allocated between two or more accounting periods
+                - Expenses are incurred but not recorded
+                - Recorded but unearned revenues are allocated between two or more accounting periods
+                - Revenues are earned but not recorded
+            - Four Types of Adjustments ^^**Slide 39**^^
+                - Deferred Expenses -- recorded costs are allocated between two or more accounting periods
+                - Accrued Expenses -- expenses are incurred but not recorded
+                - Accrued Revenues -- revenues are earned but not recorded
+                - Deferred Revenues -- revenues are recorded but unearned and two or more accounting periods
+            - Deferrals -- postponements of either
+                - A recognition of a revenue paid in advance (type 3)
+                - A recognition of a paid expense (type 1)
+            - Accruals
+                - An expense that happened but has not yet been recorded (type 2)
+                    - Cash will be paid in future
+                - A revenue that happened but has not been recorded (type 4)
+                    - Cash will be received in future
+            - Deferred Expenses
+                - Postponement of recognition of expenses already paid
+                - Require allocating recorded costs between two or more periods
+                    - Recorded costs
+                        - Expenditures of >1 accounting period
+                        - Debited to asset account
+                        - End of accounting period the used amount will be transferred to expense account
+                            - Prepaid expenses and depreciation of
+plant and equipment are two types of adjustments involving deferred expenses
+            - Prepaid Expenses
+                - Expenses paid in advance but that have not expired are recorded as assets
+                - A certain portion expires at the end of accounting period
+                - Adjusting entry reduces assets and increases expense
+                    - Amount of adjustment is the cost of goods/services that are used up/expired
+                    - If adjustments of prepaid expenses are not made,
+                        - Assets will be overstated
+                        - Expenses will be understated
+                        - Equity will be overstated
+                        - Net income will be overstated
+            - ^^**EXAMPLES: Slide 48-56**^^
+            - Depreciation
+                - is the periodic allocation of the cost of a tangible asset over its estimated useful life
+                    - Purchase of Long-term asset = company is paying in advance for the usefulness of asset for as long as it benefits the company
+                    - Purchase of an asset is a deferral of an expense; Cost of asset is allocated over its useful life
+                    - The amount allocated to any one period is called __depreciation__, or __depreciation expense__
+                - is an expense that is incurred to produce revenue; it must be estimated:
+                    - Useful life of asset is estimated
+                    - Cost and useful life used to determine the amount expensed each month
+                    - A number of methods exist for this
+                - Depreciation expense does not reduce the asset account directly; is recorded in a __contra account__
+            - Contra account
+                - A separate account paired with asset account
+                - Used to show the accumulated amount of depreciation expensed for the asset
+                - Balance in contra account is show on financial statements as a deduction from related asset
+                - Used to:
+                    - Recognize that depreciation is an estimate
+                    - Preserve original cost of asset
+                - With asset account, they show
+                    - How much of an asset has allocated as an expense
+                    - Balance left for depreciation
+                - ^^**EXAMPLES: Slide 60-64**^^
+            - Accrued Expenses
+                - Incurred but unrecorded expenses
+                - At the end of accounting period is recorded in Expense Account and corresponding Liability Account
+                - As expenses and liabilities accumulate, they __accrue__
+                - Common __accrued__ expenses
+                    - Interest
+                    - Taxes
+                    - Wages
+                    - Utilities
+                - Accrued Wages
+                    - The pay period for the secretary at Joan Miller Advertising Agency is biweekly (every two weeks)
+                    - The last pay period ended July 26
+                    - At the end of business on July 31, the secretary has earned 3 days wages but will not be paid until the next
+payday in August
+                    - These wages are an expense for July and should be recorded as a liability to the company 
+                    - Calculating Accrued Wages
+                        - $1200 every two weeks
+                        - $1200 divided by 10 business days = $120
+                        - Wages Payable for July = $120 times 3 days = $360
+                    - ^^**EXAMPLE: Slide 68-75**^^
+            - Adjusted Trial Balance
+                - A trial balance prepared after all adjusting entries have been recorded and posted to accounts
+                    - Total Debits = Total Credits
+                - The financial statements can easily be prepared from adjusted trial balance
+            - **Sequence of Financial Statements**
+                - (1) Income statement
+                    - Uses
+revenue and expense accounts from adjusted trial balance
+                - (2) Statement of owner’s equity
+                    - Uses Capital account balance from adjusted trial balance
+                    - Uses net income from the income statement
+                - (3) Balance sheet
+                - Uses balance sheet accounts from adjusted trial balance
+                - Uses end of period balance in Capital account from statement of owner’s equity
+- L7: Operating Cycle and Merchandising Operations
+    - Management Issues in Merchandising Business
+        - Merchandising businesses earn income by buying and selling merchandise
+        - Same basic methdos as service companies but more things to account for; **merchandise inventory**
+        - Issues
+            - Cash flow management
+                - Managing receipts and payment of cash
+                - Series of transactions are called the operating cycle
+                    - Purchase of merchandise inventory for cash or credit
+                    - Payment for purchases made on credit
+                    - Sales of merchandise inventory for cash or on credit
+                    - Collection of cash from credit sales
+                - Operation cycle
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fskorbenko%2FwyqcGporFS.png?alt=media&token=b0fde844-7d64-4d2f-95f4-15b94fc8324d)
+                - Financing period is the time period from the purchase of inventory until the time it is sold to return money to creditors
+                    - Also called the __cash gap__
+                    - Period:
+                        - Inventory is purchased on creditg (Accounts Payable)
+                        - Terms of payment are 30 days (Cash is paid)
+                        - Average days to sell inventory is 60 days (Accounts Receivable)
+                        - Average days to collect cash is 60 days (Cash is received)
+                - Cash vs Credit
+                    - Types of payment for purchases
+                        - Cash: funds available immediately
+                        - Bank credit card: both
+                        - Store credit: merchandiser must wait
+                    - Encourage sales for credit or cash
+            - Profitability management
+                - Is a complex activity that includes achieving gross marging and acceptable operating expenses 
+                - Gross margin depends on:
+                    - Appropriate selling prices
+                    - Purchasing at favourable terms and prices
+                - Operating costs depend on
+                    - Controling expenses: see __operating budget__
+                    - Efficiency
+                - Operating budgets
+                    - Consist of detailing listings of projected selling expenses and all expenses for a company
+                    - Reflcect operating plans; should compare actual and budgeted and make adjutments
+            - Choice of inventory system
+            - Control of merchandising operations
+                - Perpetual inventory system
+                    - Determines inventory by keeping continuous records of quantity and cost 
+                    - Detailed data enable mgmt to
+                        - Determine availability
+                        - Avoid running out of stock 
+                            - more efficient orders
+                        - Control financial costs of inventory
+                    - Accounting for Inventory Under the Perpetual System
+                        - Purchases: cost is recorded in Merchandise Inventory account; cost of goods on hand
+                        - Sales: cost of each item is moved form Merchandise Inventory to Cost of Goods Sold; cost of goods sold
+                    - Used by:
+                        - Larger companies
+                        - Companies that sell high-value items
+                            - Cars
+                            - Jewellery
+                - Periodic inventory system
+                    - Determines inventory by a physical count taken at the end of the accounting period
+                    - No detailed records of actual inventory on hand
+                    - Amount of inventory on hand is accurate only at the date of balance sheet
+                    - Used to reduce amount of clerks
+                    - Lack of records can lead to high operating costs and lost sales
+                    - Used by:
+                        - Small companies
+                        - Companies with high volumes of of low value items
+                            - Discounters
+                            - Grain companies
+                - Principle transactions are buying and selling assets; selling includes
+                    - Cash
+                    - Accounts receivable
+                    - Merchandise inventory
+                    - These assets are vulnerable to theft -- must use internal controls
+                        - Environment of control
+                        - Accounting systems
+                        - Control procedures
+                - Physical Inventory
+                    - A physical count of all merchandise is required by both systems
+                    - Under perpetual system is compared to accounting records to determine shortages
+                    - Used to control inventory
+                - 
+        - 
