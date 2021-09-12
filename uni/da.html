@@ -1,1 +1,98 @@
+<head>
+	<style>
+		h1, h2 {
+		font-family:sans-serif;
+		}
+	</style>
+</head>
+	<form action="https://skorbenko.github.io/uni">
+    		<input type="submit" value="Back" />
+	</form>
+<h1 id="data-analysis">Data Analysis</h1>
+<hr>
+<h2 id="task-1">Task 1</h2>
+<h3 id="quartiles">Quartiles</h3>
+<p>=QUARTILE.INC</p>
+<h3 id="confidence-intervals-for-e-x-">Confidence Intervals for E(X)</h3>
+<ul>
+<li>Alfa/2 <ul>
+<li>(100-CI)/100/2</li>
+</ul>
+</li>
+<li>Zalfa/2 <ul>
+<li><mark>=NORM.INV(&quot;Alfa/2&quot;,0,1) </mark></li>
+</ul>
+</li>
+<li>Left Boundary is<ul>
+<li>Median + StandError*&quot;Zalfa/2&quot;</li>
+</ul>
+</li>
+<li>Right Boundary is<ul>
+<li>Median - StandError*&quot;Zalfa/2&quot;</li>
+</ul>
+</li>
+</ul>
+<h3 id="confidence-intervals-for-var-x-">Confidence Intervals for Var(X)</h3>
+<ul>
+<li>Left Boundary<ul>
+<li>XSquared<ul>
+<li><mark>=CHISQ.INV(1-&quot;Alfa/2&quot;,COUNT-1)</mark></li>
+</ul>
+</li>
+<li><mark> =((COUNT-1)*SampVar)/XSquared </mark></li>
+</ul>
+</li>
+<li>Right Boundary<ul>
+<li>XSquared<ul>
+<li><mark>=CHISQ.INV(&quot;Alfa/2&quot;,COUNT-1)</mark></li>
+</ul>
+</li>
+<li><mark>=((COUNT-1)*SampVar)/XSquared</mark></li>
+</ul>
+</li>
+</ul>
+<h3 id="-span-style-background-color-00fefe-boundaries-of-normal-range-span-"><span style="background-color:#00FEFE">Boundaries of Normal Range</span></h3>
+<hr>
+<h2 id="task-2">Task 2</h2>
+<h3 id="ni-pi-npi-lower-">Ni, Pi, NPi, <em>Lower</em></h3>
+<ul>
+<li>Ni<ul>
+<li>Number of occurrences of phenomena</li>
+</ul>
+</li>
+<li>Pi <ul>
+<li>Fair distribution (1/5=0.2)</li>
+</ul>
+</li>
+<li>NPi<ul>
+<li>Fair distribution * number of occurrences</li>
+</ul>
+</li>
+<li><em>Lower</em><ul>
+<li><mark>((Ni-NPi)^2)/NPi</mark></li>
+</ul>
+</li>
+</ul>
+<h3 id="observed-value-critical-value-degs-of-freedom">Observed Value &amp; Critical Value &amp; Degs of Freedom</h3>
+<ul>
+<li>Observed Value<ul>
+<li>Sum of all <em>Lower</em> amounts</li>
+</ul>
+</li>
+<li>Degrees of Freedom <ul>
+<li>Types of phenomena -1</li>
+</ul>
+</li>
+<li><span style="background-color:#00FEFE">Critical Value </span><ul>
+<li><mark>=CHISQ.INV.RT(Alfa,DegFree)</mark></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="task-3">Task 3</h2>
+<h3 id="pearson">Pearson</h3>
+<ul>
+<li>=PEARSON(B4:B257,C4:C257)</li>
+</ul>
+<h3 id="-span-style-background-color-00fefe-levels-of-significance-ho-hypothesis-span-"><span style="background-color:#00FEFE">Levels of Significance &amp; &quot;Ho&quot; Hypothesis </span></h3>
 
